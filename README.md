@@ -6,6 +6,8 @@ This file will become your README and also the index of your documentation.
 
 This is a dummy statement to see if it changes
 
+this is some more changes
+
 ## Install
 
 `pip install your_project_name`
