@@ -4,6 +4,8 @@
 
 This file will become your README and also the index of your documentation.
 
+This is a dummy statement to see if it changes
+
 ## Install
 
 `pip install your_project_name`
@@ -12,7 +14,7 @@ This file will become your README and also the index of your documentation.
 
 Fill me in please! Don't forget code examples:
 
-```
+```python
 1+1
 ```
 
